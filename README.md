@@ -1,4 +1,4 @@
-# Cube3d
+# MiniRT
 
 ## important sourde link
-https://github.com/aaron9000/c-game-resources?tab=readme-ov-file
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
